@@ -1,5 +1,5 @@
 import { createAction, handleActions } from 'redux-actions'
-import API from '../../utils/lib/api'
+import API from '../../utils/lib/api-appsync'
 
 // #################### ACTION TYPES ###################
 
